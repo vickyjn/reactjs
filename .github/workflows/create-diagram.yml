@@ -1,4 +1,4 @@
-- name: Repo Visualizer
+
   # You may pin to the exact commit or the version.
   # uses: githubocto/repo-visualizer@2dea7f0343abf8711244d179aa42405d91d9c97f
   uses: githubocto/repo-visualizer@0.8.2
